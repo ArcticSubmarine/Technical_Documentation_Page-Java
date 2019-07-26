@@ -1,0 +1,107 @@
+/*
+  Made by Clarisse Tarrou
+  Project : Technical Documentation Page - Java
+  Date : 07.26.2019 
+  Github/CodePen : ArcticSubmarine
+*/
+
+/* Main doc */
+#main-doc{
+  font-family: verdana, arial;
+  text-align: justify;
+  margin-left: 23em;
+  margin-right: 3em;
+}
+
+section{
+  margin-bottom: 3em;
+}
+
+header{
+  font-size: 150%;
+}
+
+p{
+  text-align: justify;
+  font-size: 100%;
+}
+
+li{
+  height: 100%;
+}
+
+code{
+  display: block;
+  text-align: left;
+  white-space: pre;
+  position: relative;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 2;
+  background-color: #f7f7f7;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+/* End main doc */
+
+/* Navbar */
+
+#navbar{
+  height: 100%;
+  z-index: 1;
+  overfow-x: hidden;
+  font-family: verdana, arial;
+  background-color: white;
+  display: block;
+  margin: 0%;
+  padding: 0%;
+  position : fixed;
+  top: 0;
+  left: 0;
+  overflow-y: auto;
+}
+
+#navbar header{
+  margin-bottom: 0.8em;
+}
+
+a{
+  display: block;
+  color: black;
+  text-align: left;
+  text-decoration: none;
+  padding: 1em;
+  margin: 0;
+  line-height: 2.5em;
+}
+
+#navbar a:hover{
+  background-color: white;
+}
+
+#sec1{
+  background-color: #ffb3ba;
+}
+
+#sec2{
+  background-color: #ffdfba;
+}
+
+#sec3{
+  background-color: #ffffba;
+}
+
+#sec4{
+  background-color: #baffc9;
+}
+
+#sec5{
+  background-color: #bae1ff;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}

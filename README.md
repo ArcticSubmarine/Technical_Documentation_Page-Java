@@ -5,3 +5,5 @@ This project is a part of the FreeCodeCamp curriculum focusing on responsive web
 
 User story of the project here --> https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page
 The text of my documentation comes from the exemple given in the user story.
+
+![alt text](https://raw.githubusercontent.com/ArcticSubmarine/FAKE_Personnal_Portfolio/master/JS.PNG)
